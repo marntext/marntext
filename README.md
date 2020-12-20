@@ -4,7 +4,7 @@
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marntext" alt="marntext" /> </p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muharremkuruoglu/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muharrem-kuruo%C4%9Flu-b3a5221b8/)
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
