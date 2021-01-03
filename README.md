@@ -14,10 +14,22 @@
 - ✨ I’m currently learning backend development (Node.js | MongoDB | Django)
 - ✨ I’m looking to collaborate on open source projects
 - ✨ Ask me about anything that you want to learn
-<br/><hr/><br/>
+<br/>
 
 ### Medium Articles
 
 - [Installation of Django & Creating a Project](https://marntext.medium.com/installation-of-django-creating-a-project-cafeac454e58)
+
+<br/><hr/><br/>
+
+<p align="center"> 
+<img  src="logo_rn.png" height="60"> &nbsp;&nbsp; &nbsp;&nbsp; 
+<img src="logo_react.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="logo_js.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
+<img src="css.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="html.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
+<img src="logo_python.png" height="60">
+ </p> 
+  <br/>
 
 
