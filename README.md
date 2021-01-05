@@ -1,16 +1,4 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=marntext&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
-
-<p align="center"> 
-<img  src="logo_rn.png" height="60"> &nbsp;&nbsp; &nbsp;&nbsp; 
-<img src="logo_react.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="logo_js.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
-<img src="css.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="html.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
-<img src="logo_python.png" height="60">
- </p> 
- <br/>
-
-
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marntext" alt="marntext" /> </p>
 
@@ -32,7 +20,7 @@
 
 <br/><hr/><br/>
 
-<p align="center"> 
+<!-- <p align="center"> 
 <img  src="logo_rn.png" height="60"> &nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="logo_react.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="logo_js.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
@@ -40,6 +28,6 @@
 <img src="html.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="logo_python.png" height="60">
  </p> 
-  <br/>
+  <br/> -->
 
 
