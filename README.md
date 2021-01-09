@@ -2,9 +2,7 @@
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marntext" alt="marntext" /> </p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muharrem-kuruo%C4%9Flu-b3a5221b8/)
-<br/>
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://marntext.medium.com/)
+
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
@@ -16,7 +14,10 @@ You may find some projects on my repos, feel free to contribute or using them.
 - ✨ Languages: Javascript, Python
 - ✨ Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
 - ✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
-
+<br/>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muharrem-kuruo%C4%9Flu-b3a5221b8/)
+<br/>
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://marntext.medium.com/)
 <br/>
 
 ### Medium Articles
