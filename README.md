@@ -14,7 +14,7 @@ You may find some projects on my repos, feel free to contribute or using them.
 “Share your knowledge. It is a way to achieve immortality.” (Dalai Lama) ⚡⚡⚡
 
 - ✨ Languages: Javascript, Python
-- ✨ Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
+- ✨ Front-End Development:React, React Native,Javascript, HTML, CSS
 - ✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
 <br/>
 
