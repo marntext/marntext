@@ -8,10 +8,15 @@
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
-- ✨ I’m currently working on frontend and mobile app development (JavaScript | React | React Native | HTML | CSS)
-- ✨ I’m currently learning backend development (Node.js | MongoDB | Django)
-- ✨ I’m looking to collaborate on open source projects
-- ✨ Ask me about anything that you want to learn
+✨This is Muharrem ✨ I'm a full stack developer, interested in writing new codes, dreaming new designs and creating new web sites but my speciality is front-end developing.
+
+You may find some projects on my repos, feel free to contribute or using them. 
+“Share your knowledge. It is a way to achieve immortality.” (Dalai Lama) ⚡⚡⚡
+
+- ✨ Languages: Javascript, Python
+- ✨ Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
+- ✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
+
 <br/>
 
 ### Medium Articles
