@@ -24,7 +24,7 @@ You may find some projects on my repos, feel free to contribute or using them.
 <br/>
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://marntext.medium.com/)
 <br/>
-<hr/>
+<!-- <hr/>
 <p align="center"> 
 <img  src="logo_rn.png" height="30"> &nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="logo_react.png" height="30"> &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -33,4 +33,4 @@ You may find some projects on my repos, feel free to contribute or using them.
 <img src="html.png" height="30">&nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="logo_python.png" height="30">
  </p>
- <hr/>
+ <hr/> -->
