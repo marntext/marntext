@@ -10,7 +10,8 @@
 
 ✨This is Muharrem ✨ I'm a full stack developer, interested in writing new codes, dreaming new designs and creating new web sites but my speciality is front-end developing.
 
-You may find some projects on my repos, feel free to contribute or using them. 
+You may find some projects on my repos, feel free to contribute or using them.
+<br/>
 “Share your knowledge. It is a way to achieve immortality.” (Dalai Lama) ⚡⚡⚡
 
 - ✨ Languages: Javascript, Python
@@ -30,7 +31,7 @@ You may find some projects on my repos, feel free to contribute or using them.
 
 <br/><hr/><br/>
 
-<!-- <p align="center"> 
+<p align="center"> 
 <img  src="logo_rn.png" height="60"> &nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="logo_react.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="logo_js.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
@@ -38,6 +39,6 @@ You may find some projects on my repos, feel free to contribute or using them.
 <img src="html.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="logo_python.png" height="60">
  </p> 
-  <br/> -->
+  <br/>
 
 
