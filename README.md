@@ -1,11 +1,6 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=marntext&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marntext" alt="marntext" /> </p>
-
-
-
-
-
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
 ✨This is Muharrem 
@@ -29,17 +24,13 @@ You may find some projects on my repos, feel free to contribute or using them.
 <br/>
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://marntext.medium.com/)
 <br/>
-
-<br/><hr/><br/>
-
+<hr/>
 <p align="center"> 
-<img  src="logo_rn.png" height="60"> &nbsp;&nbsp; &nbsp;&nbsp; 
-<img src="logo_react.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="logo_js.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
-<img src="css.png" height="60"> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="html.png" height="60">&nbsp;&nbsp; &nbsp;&nbsp; 
-<img src="logo_python.png" height="60">
- </p> 
-  <br/>
-
-
+<img  src="logo_rn.png" height="30"> &nbsp;&nbsp; &nbsp;&nbsp; 
+<img src="logo_react.png" height="30"> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="logo_js.png" height="30">&nbsp;&nbsp; &nbsp;&nbsp; 
+<img src="css.png" height="30"> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="html.png" height="30">&nbsp;&nbsp; &nbsp;&nbsp; 
+<img src="logo_python.png" height="30">
+ </p>
+ <hr/>
