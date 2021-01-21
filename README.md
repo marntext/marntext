@@ -8,7 +8,8 @@
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
-✨This is Muharrem ✨ I'm a full stack developer, interested in writing new codes, dreaming new designs and creating new web sites but my speciality is front-end developing.
+✨This is Muharrem 
+✨ I'm a full stack developer, interested in writing new codes, dreaming new designs and creating new web sites but my speciality is front-end developing.
 
 You may find some projects on my repos, feel free to contribute or using them.
 <br/>
