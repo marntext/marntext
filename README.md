@@ -20,7 +20,7 @@ You may find some projects on my repos, feel free to contribute or using them.
 - [Installation of Django & Creating a Project](https://marntext.medium.com/installation-of-django-creating-a-project-cafeac454e58)
 <br/>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muharrem-kuruo%C4%9Flu-b3a5221b8/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muharremkuruo%C4%9Flu/)
 <br/>
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://marntext.medium.com/)
 <br/>
